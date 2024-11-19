@@ -15,7 +15,7 @@ This is a Streamlit-based web application that uses advanced machine learning mo
 ---
 ## UI
 
-![Video Description](https://github.com/gir-ish/Golf_Phase_Detection/blob/main/APP.gif)
+![Video Description](https://github.com/gir-ish/predictive-analytics/blob/main/EMO_FAKE-UI.gif)
 
 ---
 
