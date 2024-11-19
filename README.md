@@ -11,6 +11,11 @@ This is a Streamlit-based web application that uses advanced machine learning mo
 - Provides predictions (`bonafide` or `spoof`) with confidence scores.
 - Displays class probabilities with a visually appealing bar chart.
 - Easy-to-use interface built with Streamlit.
+---
+---
+## UI
+
+![Video Description](https://github.com/gir-ish/Golf_Phase_Detection/blob/main/APP.gif)
 
 ---
 
