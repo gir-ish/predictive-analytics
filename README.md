@@ -1,7 +1,7 @@
 
 # 🎭 EmoFake Detection App
 
-This is a Streamlit-based web application that uses advanced machine learning models to detect whether an audio file is **bonafide** (emotionally authentic) or **spoofed** (emotionally fake). The application leverages Facebook's Wav2Vec2 for feature extraction and a TensorFlow-based CNN model trained on PTMs features for classification.
+This is a Streamlit-based web application that uses advanced machine learning models to detect whether an audio file is **bonafide** (emotionally authentic) or **spoofed** (emotionally fake). The application leverages Facebook's Wav2Vec2 for feature extraction and a TensorFlow-based CNN model trained on MMS features for classification.
 
 ---
 
@@ -122,4 +122,3 @@ For questions or feedback, feel free to contact:
 
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)
  -->
-# predictive-analytics
