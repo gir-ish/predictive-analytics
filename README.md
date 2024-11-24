@@ -79,7 +79,7 @@ replace the model folder from new one.
 
 You can also use the application directly via the following link:
 
-[**Download Saved CNN MMS Model**](https://drive.google.com/file/d/1C70M9ooYKmIq00o0DnZpB88Lhg0vomMF/view?usp=sharing)
+[**Access the EmoFake Detection App on Hugging Face Spaces**](https://huggingface.co/spaces/ggirishg/Emo-Fake-UI)
 
 ---
 
