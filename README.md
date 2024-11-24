@@ -49,7 +49,7 @@ streamlit run app.py
 ### **5. If Model Doesn't Work, Download from Here**
 If the model isn't available in your project, you can download it from the following link:
 
-[**Download Saved CNN MMS Model**](https://drive.google.com/file/d/1C70M9ooYKmIq00o0DnZpB88Lhg0vomMF/view?usp=sharing)
+[**Download Saved CNN Model**](https://drive.google.com/file/d/1C70M9ooYKmIq00o0DnZpB88Lhg0vomMF/view?usp=sharing)
 
 After downloading:
 replace the model folder from new one.
